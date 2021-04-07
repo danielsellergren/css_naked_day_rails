@@ -2,7 +2,7 @@
 
 This gem provides a simple helper that tells you whether it is currently [CSS Naked Day](https://css-naked-day.github.io/).
 
-This has been tested with Rails 6 but should work for some older versions. I made this for my personal website in about 30 minutes so if my math is wrong or anything let me know, I'm not a timezone expert or anything.
+This has been tested with Rails 6 but should work for some older versions. I made this for my personal website in about 30 minutes so if my math is wrong or anything let me know, I'm not a timezone expert.
 
 ## Installation
 
